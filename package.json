@@ -1,0 +1,19 @@
+{
+  "name": "node-js-hw1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": "git@github.com:mrok-creator/node-js-hw1.git",
+  "author": "Kasianenko Oleksandr <sanekkas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bson-objectid": "^2.0.3",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
